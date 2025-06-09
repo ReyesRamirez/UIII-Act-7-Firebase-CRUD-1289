@@ -1,16 +1,41 @@
 # myapp
 
-A new Flutter project.
+- Pagina de inicio
 
-## Getting Started
+![alt text](image.png)
 
-This project is a starting point for a Flutter application.
+- Pagina para agregar
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](image-1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Pagina actualizada
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image-2.png)
+
+- Pagina para editar
+
+![alt text](image-3.png)
+
+- Pagina actualizada 2
+
+![alt text](image-4.png)
+
+- Opcion para eliminar
+
+![alt text](image-5.png)
+
+- Pagina actualizada 3
+
+![alt text](image-6.png)
+
+- Base de datos
+
+![alt text](image-7.png)
+
+- Base de datos actualizada
+
+![alt text](image-8.png)
+
+- Base de datos actualizada 2
+
+![alt text](image-9.png)

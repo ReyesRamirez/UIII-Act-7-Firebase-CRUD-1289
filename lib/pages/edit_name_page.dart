@@ -16,7 +16,10 @@ class _EditNamePageState extends State<EditNamePage> {
     final Map arguments = ModalRoute.of(context)!.settings.arguments as Map;
     nameController.text = arguments['name'];
     return Scaffold(
-      appBar: AppBar(title: const Text('Edit Name')),
+      appBar: AppBar(title: const Text('Editar Nombre',style: TextStyle(color: Colors.white)),
+      centerTitle: true,
+        backgroundColor: Colors.blueAccent,
+        ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),
         child: Column(

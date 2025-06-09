@@ -14,7 +14,10 @@ class _AddNamePageState extends State<AddNamePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Add Name')),
+      appBar: AppBar(title: const Text('Agregar Nombre',style: TextStyle(color: Colors.white)),
+      centerTitle: true,
+        backgroundColor: Colors.blueAccent,
+        ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),
         child: Column(
